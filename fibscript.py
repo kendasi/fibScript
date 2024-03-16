@@ -6,7 +6,7 @@ def fibonacci(n):
         print("ERROR: Parameter must be one positive integer.")
         return
     elif n == 1:
-        print(sequence[0])
+        print(f"[{sequence[0]}]")
         return
     elif n == 2:
         print(sequence)

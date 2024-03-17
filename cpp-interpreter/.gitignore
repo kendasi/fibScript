@@ -1,0 +1,4 @@
+.cache
+fibscript
+fibscript.o
+compile_commands.json

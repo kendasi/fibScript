@@ -1,0 +1,3 @@
+[submodule "cpp-interpreter/libs/bigint"]
+	path = cpp-interpreter/libs/bigint
+	url = https://github.com/rgroshanrg/bigint.git
